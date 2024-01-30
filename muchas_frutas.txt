@@ -3,3 +3,9 @@ banana
 Pineapple
 Orange
 Strawberry
+Guayaba
+Guanaba
+Crua
+Sandia
+Lulo
+Trombolo
