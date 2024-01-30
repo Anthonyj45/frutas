@@ -13,4 +13,6 @@ Pera
 Uvas
 Arandanos
 Manzanas
+Grandailla
+Mango
 
